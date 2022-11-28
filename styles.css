@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url(./assets/img/banner-nosotros.jpg);
+    background-image: url(./assets/img/banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -17,7 +17,8 @@ div{
     top: 50%;
     left: 50%;
     transform: translate(-50% , -50%);
-    color: yellow;
+    color: black;
     font-size: 2em;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
